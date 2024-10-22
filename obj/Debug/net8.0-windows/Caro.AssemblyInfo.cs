@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Caro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48de57f1fc3e6fb821519f29d6338b005bf599ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Caro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Caro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

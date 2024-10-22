@@ -30,7 +30,6 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             pnlChessBoard = new Panel();
-            avatar = new Panel();
             panel3 = new Panel();
             label3 = new Label();
             label1 = new Label();
@@ -39,10 +38,12 @@
             playerName = new TextBox();
             txbIP = new TextBox();
             panel4 = new Panel();
+            avatar = new PictureBox();
             panel2 = new Panel();
             btnLAN = new Button();
             panel3.SuspendLayout();
             panel4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)avatar).BeginInit();
             SuspendLayout();
             // 
             // pnlChessBoard
@@ -52,14 +53,6 @@
             pnlChessBoard.Name = "pnlChessBoard";
             pnlChessBoard.Size = new Size(1300, 857);
             pnlChessBoard.TabIndex = 0;
-            // 
-            // avatar
-            // 
-            avatar.Location = new Point(15, 13);
-            avatar.Name = "avatar";
-            avatar.Size = new Size(133, 117);
-            avatar.TabIndex = 1;
-            avatar.Paint += avatar_Paint;
             // 
             // panel3
             // 
@@ -126,16 +119,25 @@
             // panel4
             // 
             panel4.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            panel4.Controls.Add(avatar);
             panel4.Controls.Add(panel2);
             panel4.Controls.Add(btnLAN);
             panel4.Controls.Add(txbIP);
-            panel4.Controls.Add(avatar);
             panel4.Controls.Add(playerName);
             panel4.Controls.Add(prcbCoolDown);
             panel4.Location = new Point(1343, 14);
             panel4.Name = "panel4";
             panel4.Size = new Size(360, 319);
             panel4.TabIndex = 3;
+            // 
+            // avatar
+            // 
+            avatar.Location = new Point(15, 13);
+            avatar.Name = "avatar";
+            avatar.Size = new Size(146, 117);
+            avatar.SizeMode = PictureBoxSizeMode.StretchImage;
+            avatar.TabIndex = 7;
+            avatar.TabStop = false;
             // 
             // panel2
             // 
@@ -170,13 +172,13 @@
             panel3.PerformLayout();
             panel4.ResumeLayout(false);
             panel4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)avatar).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
 
         private Panel pnlChessBoard;
-        private Panel avatar;
         private Panel panel3;
         private TextBox txbIP;
         private TextBox playerName;
@@ -187,5 +189,6 @@
         private Button btnLAN;
         private Label label3;
         private Panel panel2;
+        private PictureBox avatar;
     }
 }

@@ -10,7 +10,7 @@ namespace Caro
             
             InitializeComponent();
 
-            ChessBoard = new ChessBoardManager(pnlChessBoard);
+            ChessBoard = new ChessBoardManager(pnlChessBoard, playerName, avatar);
 
             ChessBoard.DrawGameBoard();
         }
