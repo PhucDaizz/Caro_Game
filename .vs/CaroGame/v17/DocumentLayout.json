@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0110\u1EA0I H\u1ECCC\\NAM 3\\Lap Trinh m\u1EA1ng MT\\CaroGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|c:\\\u0111\u1EA1i h\u1ECDc\\nam 3\\lap trinh m\u1EA1ng mt\\carogame\\caro\\chessboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|solutionrelative:caro\\chessboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|C:\\\u0110\u1EA0I H\u1ECCC\\NAM 3\\Lap Trinh m\u1EA1ng MT\\CaroGame\\caro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|solutionrelative:caro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|c:\\\u0111\u1EA1i h\u1ECDc\\nam 3\\lap trinh m\u1EA1ng mt\\carogame\\caro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|solutionrelative:caro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|c:\\\u0111\u1EA1i h\u1ECDc\\nam 3\\lap trinh m\u1EA1ng mt\\carogame\\caro\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|solutionrelative:caro\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|c:\\\u0111\u1EA1i h\u1ECDc\\nam 3\\lap trinh m\u1EA1ng mt\\carogame\\caro\\constance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|solutionrelative:caro\\constance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\\u0110\u1EA0I H\u1ECCC\\NAM 3\\Lap Trinh m\u1EA1ng MT\\CaroGame\\Caro\\Form1.cs",
+              "RelativeDocumentMoniker": "Caro\\Form1.cs",
+              "ToolTip": "C:\\\u0110\u1EA0I H\u1ECCC\\NAM 3\\Lap Trinh m\u1EA1ng MT\\CaroGame\\Caro\\Form1.cs [Design]",
+              "RelativeToolTip": "Caro\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:04:24.599Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\\u0110\u1EA0I H\u1ECCC\\NAM 3\\Lap Trinh m\u1EA1ng MT\\CaroGame\\Caro\\Player.cs",
+              "RelativeDocumentMoniker": "Caro\\Player.cs",
+              "ToolTip": "C:\\\u0110\u1EA0I H\u1ECCC\\NAM 3\\Lap Trinh m\u1EA1ng MT\\CaroGame\\Caro\\Player.cs",
+              "RelativeToolTip": "Caro\\Player.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIAwwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:50:14.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChessBoardManager.cs",
+              "DocumentMoniker": "C:\\\u0110\u1EA0I H\u1ECCC\\NAM 3\\Lap Trinh m\u1EA1ng MT\\CaroGame\\Caro\\ChessBoardManager.cs",
+              "RelativeDocumentMoniker": "Caro\\ChessBoardManager.cs",
+              "ToolTip": "C:\\\u0110\u1EA0I H\u1ECCC\\NAM 3\\Lap Trinh m\u1EA1ng MT\\CaroGame\\Caro\\ChessBoardManager.cs",
+              "RelativeToolTip": "Caro\\ChessBoardManager.cs",
+              "ViewState": "AQIAANsAAAAAAAAAAAAAAPEAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:49:35.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Constance.cs",
+              "DocumentMoniker": "C:\\\u0110\u1EA0I H\u1ECCC\\NAM 3\\Lap Trinh m\u1EA1ng MT\\CaroGame\\Caro\\Constance.cs",
+              "RelativeDocumentMoniker": "Caro\\Constance.cs",
+              "ToolTip": "C:\\\u0110\u1EA0I H\u1ECCC\\NAM 3\\Lap Trinh m\u1EA1ng MT\\CaroGame\\Caro\\Constance.cs",
+              "RelativeToolTip": "Caro\\Constance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:24:26.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\\u0110\u1EA0I H\u1ECCC\\NAM 3\\Lap Trinh m\u1EA1ng MT\\CaroGame\\Caro\\Form1.cs",
+              "RelativeDocumentMoniker": "Caro\\Form1.cs",
+              "ToolTip": "C:\\\u0110\u1EA0I H\u1ECCC\\NAM 3\\Lap Trinh m\u1EA1ng MT\\CaroGame\\Caro\\Form1.cs",
+              "RelativeToolTip": "Caro\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:38:37.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
