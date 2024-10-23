@@ -16,3 +16,12 @@ C:\ĐẠI HỌC\NAM 3\Lap Trinh mạng MT\CaroGame\Caro\obj\Debug\net8.0-windows
 C:\ĐẠI HỌC\NAM 3\Lap Trinh mạng MT\CaroGame\Caro\obj\Debug\net8.0-windows\ref\Caro.dll
 C:\ĐẠI HỌC\NAM 3\Lap Trinh mạng MT\CaroGame\Caro\obj\Debug\net8.0-windows\Caro.Properties.Resources.resources
 C:\ĐẠI HỌC\NAM 3\Lap Trinh mạng MT\CaroGame\Caro\obj\Debug\net8.0-windows\Caro.sourcelink.json
+C:\ĐẠI HỌC\NAM 3\Lap Trinh mạng MT\CaroGame\Caro\bin\Debug\net8.0-windows\NAudio.dll
+C:\ĐẠI HỌC\NAM 3\Lap Trinh mạng MT\CaroGame\Caro\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\ĐẠI HỌC\NAM 3\Lap Trinh mạng MT\CaroGame\Caro\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\ĐẠI HỌC\NAM 3\Lap Trinh mạng MT\CaroGame\Caro\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\ĐẠI HỌC\NAM 3\Lap Trinh mạng MT\CaroGame\Caro\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\ĐẠI HỌC\NAM 3\Lap Trinh mạng MT\CaroGame\Caro\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\ĐẠI HỌC\NAM 3\Lap Trinh mạng MT\CaroGame\Caro\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\ĐẠI HỌC\NAM 3\Lap Trinh mạng MT\CaroGame\Caro\obj\Debug\net8.0-windows\Caro.csproj.AssemblyReference.cache
+C:\ĐẠI HỌC\NAM 3\Lap Trinh mạng MT\CaroGame\Caro\obj\Debug\net8.0-windows\Caro.csproj.Up2Date
