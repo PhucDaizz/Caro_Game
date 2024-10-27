@@ -72,9 +72,7 @@ namespace Caro
                 new Player("Người chơi A", Image.FromFile(Application.StartupPath + "\\Resources\\O_caro.jpg")),
                 new Player("Người chơi B", Image.FromFile(Application.StartupPath + "\\Resources\\X_caro.jpg"))
             };
-            CurrentPlayer = 0;
-
-            ChangePlayer();
+            
         }
         #endregion
 
@@ -82,6 +80,12 @@ namespace Caro
         public void DrawGameBoard()
         {
             ChessBoard.Enabled = true;
+            ChessBoard.Controls.Clear();
+
+            CurrentPlayer = 0;
+
+            ChangePlayer();
+
             string path = Application.StartupPath + "\\Resources\\background.wav";
             backgroundReader = new AudioFileReader(path);
             backgroundPlayer = new WaveOutEvent();
