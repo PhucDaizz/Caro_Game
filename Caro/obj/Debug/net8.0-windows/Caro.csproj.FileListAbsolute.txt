@@ -25,3 +25,30 @@ C:\ĐẠI HỌC\NAM 3\Lap Trinh mạng MT\CaroGame\Caro\bin\Debug\net8.0-windows
 C:\ĐẠI HỌC\NAM 3\Lap Trinh mạng MT\CaroGame\Caro\bin\Debug\net8.0-windows\NAudio.WinMM.dll
 C:\ĐẠI HỌC\NAM 3\Lap Trinh mạng MT\CaroGame\Caro\obj\Debug\net8.0-windows\Caro.csproj.AssemblyReference.cache
 C:\ĐẠI HỌC\NAM 3\Lap Trinh mạng MT\CaroGame\Caro\obj\Debug\net8.0-windows\Caro.csproj.Up2Date
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\bin\Debug\net8.0-windows\Caro.exe
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\bin\Debug\net8.0-windows\Caro.deps.json
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\bin\Debug\net8.0-windows\Caro.runtimeconfig.json
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\bin\Debug\net8.0-windows\Caro.dll
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\bin\Debug\net8.0-windows\Caro.pdb
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\obj\Debug\net8.0-windows\Caro.csproj.AssemblyReference.cache
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\obj\Debug\net8.0-windows\Caro.Form1.resources
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\obj\Debug\net8.0-windows\Caro.Properties.Resources.resources
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\obj\Debug\net8.0-windows\Caro.csproj.GenerateResource.cache
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\obj\Debug\net8.0-windows\Caro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\obj\Debug\net8.0-windows\Caro.AssemblyInfoInputs.cache
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\obj\Debug\net8.0-windows\Caro.AssemblyInfo.cs
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\obj\Debug\net8.0-windows\Caro.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\obj\Debug\net8.0-windows\Caro.sourcelink.json
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\obj\Debug\net8.0-windows\Caro.csproj.Up2Date
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\obj\Debug\net8.0-windows\Caro.dll
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\obj\Debug\net8.0-windows\refint\Caro.dll
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\obj\Debug\net8.0-windows\Caro.pdb
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\obj\Debug\net8.0-windows\Caro.genruntimeconfig.cache
+C:\Users\admin\source\doanc#\Caro\Caro_Game\Caro\obj\Debug\net8.0-windows\ref\Caro.dll

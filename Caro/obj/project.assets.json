@@ -487,23 +487,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PHUCDAI\\.nuget\\packages\\": {},
+    "C:\\Users\\admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ĐẠI HỌC\\NAM 3\\Lap Trinh mạng MT\\CaroGame\\Caro\\Caro.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\source\\doanc#\\Caro\\Caro_Game\\Caro\\Caro.csproj",
       "projectName": "Caro",
-      "projectPath": "C:\\ĐẠI HỌC\\NAM 3\\Lap Trinh mạng MT\\CaroGame\\Caro\\Caro.csproj",
-      "packagesPath": "C:\\Users\\PHUCDAI\\.nuget\\packages\\",
-      "outputPath": "C:\\ĐẠI HỌC\\NAM 3\\Lap Trinh mạng MT\\CaroGame\\Caro\\obj\\",
+      "projectPath": "C:\\Users\\admin\\source\\doanc#\\Caro\\Caro_Game\\Caro\\Caro.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\admin\\source\\doanc#\\Caro\\Caro_Game\\Caro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\PHUCDAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -560,7 +560,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

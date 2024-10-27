@@ -31,6 +31,34 @@ namespace Caro
         public List<List<Button>> Matrix { get => matrix; set => matrix = value; }
 
 
+        private event EventHandler playerMarked;
+        public event EventHandler PlayerMarked
+        {
+            add
+            {
+                playerMarked += value;
+            }
+            remove
+            {
+                playerMarked -= value;
+            }
+        }
+
+        private event EventHandler endedGame;
+        public event EventHandler EndedGame
+        {
+            add
+            {
+                endedGame += value;
+            }
+            remove
+            {
+                endedGame -= value;
+            }
+        }
+
+
+
         #endregion
 
         #region Initialize
@@ -53,6 +81,7 @@ namespace Caro
         #region Methods
         public void DrawGameBoard()
         {
+            ChessBoard.Enabled = true;
             string path = Application.StartupPath + "\\Resources\\background.wav";
             backgroundReader = new AudioFileReader(path);
             backgroundPlayer = new WaveOutEvent();
@@ -110,15 +139,18 @@ namespace Caro
 
             Mark(btn);
             ChangePlayer();
+            if (playerMarked != null)
+                playerMarked(this, new EventArgs());
             if (isEndGame(btn))
             {
                 EndGame();
             }
         }
 
-        private void EndGame()
+        public void EndGame()
         {
-            MessageBox.Show("Kết thúc game!");
+            if (endedGame != null)
+                endedGame(this, new EventArgs());
         }
 
         private bool isEndGame(Button btn)
