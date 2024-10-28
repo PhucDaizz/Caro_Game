@@ -487,24 +487,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\vtai1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\doanc#\\Caro\\Caro_Game\\Caro\\Caro.csproj",
+      "projectUniqueName": "C:\\laptrinhmang\\Caro_Game\\Caro\\Caro.csproj",
       "projectName": "Caro",
-      "projectPath": "C:\\Users\\admin\\source\\doanc#\\Caro\\Caro_Game\\Caro\\Caro.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\doanc#\\Caro\\Caro_Game\\Caro\\obj\\",
+      "projectPath": "C:\\laptrinhmang\\Caro_Game\\Caro\\Caro.csproj",
+      "packagesPath": "C:\\Users\\vtai1\\.nuget\\packages\\",
+      "outputPath": "C:\\laptrinhmang\\Caro_Game\\Caro\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\vtai1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

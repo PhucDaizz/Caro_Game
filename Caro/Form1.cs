@@ -24,6 +24,7 @@
         {
             tmCoolDown.Stop();
             pnlChessBoard.Enabled = false;
+            undoToolStripMenuItem.Enabled = false;
             MessageBox.Show("Kết Thúc");
         }
 
@@ -31,7 +32,6 @@
         {
             prcbCoolDown.Value = 0;
             tmCoolDown.Stop();
-
             ChessBoard.DrawGameBoard();
 
            
@@ -44,7 +44,7 @@
 
         void Undo()
         {
-            // Add your undo logic here
+            ChessBoard.Undo();
         }
 
         void ChessBoard_PlayerMarked(object sender, EventArgs e)

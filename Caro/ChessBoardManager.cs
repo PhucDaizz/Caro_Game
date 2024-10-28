@@ -56,7 +56,16 @@ namespace Caro
                 endedGame -= value;
             }
         }
+        private Stack<PlayInfo> playTimeLine;
 
+        public Stack<PlayInfo> PlayTimeLine
+        {
+            get { return playTimeLine; }
+            set
+            {
+                playTimeLine = value;
+            }
+        }
 
 
         #endregion
@@ -73,6 +82,8 @@ namespace Caro
                 new Player("Người chơi B", Image.FromFile(Application.StartupPath + "\\Resources\\X_caro.jpg"))
             };
             
+
+            PlayTimeLine = new Stack<PlayInfo>();
         }
         #endregion
 
@@ -81,6 +92,8 @@ namespace Caro
         {
             ChessBoard.Enabled = true;
             ChessBoard.Controls.Clear();
+
+            PlayTimeLine = new Stack<PlayInfo>();
 
             CurrentPlayer = 0;
 
@@ -142,6 +155,10 @@ namespace Caro
                 return;
 
             Mark(btn);
+
+            PlayTimeLine.Push(new PlayInfo(GetChessPoint(btn), CurrentPlayer));
+
+            CurrentPlayer = CurrentPlayer == 1 ? 0 : 1;
             ChangePlayer();
             if (playerMarked != null)
                 playerMarked(this, new EventArgs());
@@ -157,6 +174,25 @@ namespace Caro
                 endedGame(this, new EventArgs());
         }
 
+        public bool Undo()
+        {
+            if (PlayTimeLine.Count <= 0)
+                return false;
+
+            PlayInfo oldPoint = PlayTimeLine.Pop();
+            Button btn = Matrix[oldPoint.Point.Y][oldPoint.Point.X];
+
+            btn.BackgroundImage = null; 
+
+
+            if (PlayTimeLine.Count <= 0)
+            {
+                CurrentPlayer = 0;
+            }
+            else { CurrentPlayer = oldPoint.CurrentPlayer == 1 ? 0 : 1; }
+            ChangePlayer(); 
+            return true;
+        }
         private bool isEndGame(Button btn)
         {
             return isEndHorizontal(btn) || isEndVertical(btn) || isEndMainDiag(btn) || isEndExtraDiag(btn);
@@ -321,7 +357,6 @@ namespace Caro
         {
             btn.BackgroundImage = Player[CurrentPlayer].Mark;
 
-            CurrentPlayer = CurrentPlayer == 1 ? 0 : 1;
         }
 
         private void ChangePlayer()
