@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\laptrinhmang\\Caro_Game\\",
+  "WorkspaceRootPath": "E:\\Caro\\Caro_Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|c:\\laptrinhmang\\caro_game\\caro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|e:\\caro\\caro_game\\caro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|solutionrelative:caro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|C:\\laptrinhmang\\Caro_Game\\caro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|solutionrelative:caro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|e:\\caro\\caro_game\\caro\\socketmanagers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|solutionrelative:caro\\socketmanagers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|c:\\laptrinhmang\\caro_game\\caro\\chessboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|solutionrelative:caro\\chessboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|c:\\laptrinhmang\\caro_game\\caro\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|e:\\caro\\caro_game\\caro\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|solutionrelative:caro\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|c:\\laptrinhmang\\caro_game\\caro\\playinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|e:\\caro\\caro_game\\caro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|solutionrelative:caro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|e:\\caro\\caro_game\\caro\\playinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|solutionrelative:caro\\playinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|c:\\laptrinhmang\\caro_game\\caro\\constance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|solutionrelative:caro\\constance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|e:\\caro\\caro_game\\caro\\chessboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|solutionrelative:caro\\chessboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|c:\\laptrinhmang\\caro_game\\caro\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|e:\\caro\\caro_game\\caro\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7BA6901-3D99-4D16-8223-06B1908A91AE}|Caro\\Caro.csproj|solutionrelative:caro\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +38,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Caro\\Caro_Game\\Caro\\Form1.cs",
+              "RelativeDocumentMoniker": "Caro\\Form1.cs",
+              "ToolTip": "E:\\Caro\\Caro_Game\\Caro\\Form1.cs",
+              "RelativeToolTip": "Caro\\Form1.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAYwHYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:38:37.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -54,78 +71,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\laptrinhmang\\Caro_Game\\Caro\\Form1.cs",
-              "RelativeDocumentMoniker": "Caro\\Form1.cs",
-              "ToolTip": "C:\\laptrinhmang\\Caro_Game\\Caro\\Form1.cs",
-              "RelativeToolTip": "Caro\\Form1.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAQwCEAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Caro\\Caro_Game\\Caro\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Caro\\Form1.Designer.cs",
+              "ToolTip": "E:\\Caro\\Caro_Game\\Caro\\Form1.Designer.cs",
+              "RelativeToolTip": "Caro\\Form1.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T12:38:37.334Z",
+              "WhenOpened": "2024-10-29T13:13:34.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ChessBoardManager.cs",
-              "DocumentMoniker": "C:\\laptrinhmang\\Caro_Game\\Caro\\ChessBoardManager.cs",
-              "RelativeDocumentMoniker": "Caro\\ChessBoardManager.cs",
-              "ToolTip": "C:\\laptrinhmang\\Caro_Game\\Caro\\ChessBoardManager.cs",
-              "RelativeToolTip": "Caro\\ChessBoardManager.cs",
-              "ViewState": "AgIAAL4AAAAAAAAAAAAmwGIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SocketManagers.cs",
+              "DocumentMoniker": "E:\\Caro\\Caro_Game\\Caro\\SocketManagers.cs",
+              "RelativeDocumentMoniker": "Caro\\SocketManagers.cs",
+              "ToolTip": "E:\\Caro\\Caro_Game\\Caro\\SocketManagers.cs",
+              "RelativeToolTip": "Caro\\SocketManagers.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T14:49:35.236Z",
+              "WhenOpened": "2024-10-29T13:24:35.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\laptrinhmang\\Caro_Game\\Caro\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Caro\\Form1.Designer.cs",
-              "ToolTip": "C:\\laptrinhmang\\Caro_Game\\Caro\\Form1.Designer.cs",
-              "RelativeToolTip": "Caro\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Caro\\Caro_Game\\Caro\\Form1.cs",
+              "RelativeDocumentMoniker": "Caro\\Form1.cs",
+              "ToolTip": "E:\\Caro\\Caro_Game\\Caro\\Form1.cs [Design]",
+              "RelativeToolTip": "Caro\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T10:26:45.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T13:13:30.681Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PlayInfo.cs",
-              "DocumentMoniker": "C:\\laptrinhmang\\Caro_Game\\Caro\\PlayInfo.cs",
+              "DocumentMoniker": "E:\\Caro\\Caro_Game\\Caro\\PlayInfo.cs",
               "RelativeDocumentMoniker": "Caro\\PlayInfo.cs",
-              "ToolTip": "C:\\laptrinhmang\\Caro_Game\\Caro\\PlayInfo.cs",
+              "ToolTip": "E:\\Caro\\Caro_Game\\Caro\\PlayInfo.cs",
               "RelativeToolTip": "Caro\\PlayInfo.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA6wBkAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwBkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T17:55:40.902Z"
+              "WhenOpened": "2024-10-27T17:55:40.902Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\laptrinhmang\\Caro_Game\\Caro\\Player.cs",
+              "DocumentMoniker": "E:\\Caro\\Caro_Game\\Caro\\Player.cs",
               "RelativeDocumentMoniker": "Caro\\Player.cs",
-              "ToolTip": "C:\\laptrinhmang\\Caro_Game\\Caro\\Player.cs",
+              "ToolTip": "E:\\Caro\\Caro_Game\\Caro\\Player.cs",
               "RelativeToolTip": "Caro\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T07:50:14.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\laptrinhmang\\Caro_Game\\Caro\\Form1.cs",
-              "RelativeDocumentMoniker": "Caro\\Form1.cs",
-              "ToolTip": "C:\\laptrinhmang\\Caro_Game\\Caro\\Form1.cs [Design]",
-              "RelativeToolTip": "Caro\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T12:20:25.99Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
@@ -134,14 +139,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Constance.cs",
-              "DocumentMoniker": "C:\\laptrinhmang\\Caro_Game\\Caro\\Constance.cs",
-              "RelativeDocumentMoniker": "Caro\\Constance.cs",
-              "ToolTip": "C:\\laptrinhmang\\Caro_Game\\Caro\\Constance.cs",
-              "RelativeToolTip": "Caro\\Constance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "ChessBoardManager.cs",
+              "DocumentMoniker": "E:\\Caro\\Caro_Game\\Caro\\ChessBoardManager.cs",
+              "RelativeDocumentMoniker": "Caro\\ChessBoardManager.cs",
+              "ToolTip": "E:\\Caro\\Caro_Game\\Caro\\ChessBoardManager.cs",
+              "RelativeToolTip": "Caro\\ChessBoardManager.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAmwGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T14:24:26.228Z"
+              "WhenOpened": "2024-10-19T14:49:35.236Z"
             }
           ]
         }

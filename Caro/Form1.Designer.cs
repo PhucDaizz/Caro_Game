@@ -57,10 +57,10 @@
             // pnlChessBoard
             // 
             pnlChessBoard.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left;
-            pnlChessBoard.Location = new Point(11, 26);
+            pnlChessBoard.Location = new Point(10, 20);
             pnlChessBoard.Margin = new Padding(2);
             pnlChessBoard.Name = "pnlChessBoard";
-            pnlChessBoard.Size = new Size(1059, 670);
+            pnlChessBoard.Size = new Size(927, 502);
             pnlChessBoard.TabIndex = 0;
             // 
             // panel3
@@ -69,66 +69,66 @@
             panel3.Controls.Add(label3);
             panel3.Controls.Add(label1);
             panel3.Controls.Add(label2);
-            panel3.Location = new Point(1074, 275);
+            panel3.Location = new Point(940, 206);
             panel3.Margin = new Padding(2);
             panel3.Name = "panel3";
-            panel3.Size = new Size(288, 420);
+            panel3.Size = new Size(252, 315);
             panel3.TabIndex = 2;
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(25, 382);
+            label3.Location = new Point(22, 286);
             label3.Margin = new Padding(2, 0, 2, 0);
             label3.Name = "label3";
-            label3.Size = new Size(249, 20);
+            label3.Size = new Size(198, 15);
             label3.TabIndex = 7;
             label3.Text = "Người chơi nào có 5 đướngex thắng";
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(25, 24);
+            label1.Location = new Point(22, 18);
             label1.Margin = new Padding(2, 0, 2, 0);
             label1.Name = "label1";
-            label1.Size = new Size(50, 20);
+            label1.Size = new Size(38, 15);
             label1.TabIndex = 5;
             label1.Text = "label1";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(166, 24);
+            label2.Location = new Point(145, 18);
             label2.Margin = new Padding(2, 0, 2, 0);
             label2.Name = "label2";
-            label2.Size = new Size(50, 20);
+            label2.Size = new Size(38, 15);
             label2.TabIndex = 6;
             label2.Text = "label2";
             // 
             // prcbCoolDown
             // 
-            prcbCoolDown.Location = new Point(12, 109);
+            prcbCoolDown.Location = new Point(10, 82);
             prcbCoolDown.Margin = new Padding(2);
             prcbCoolDown.Name = "prcbCoolDown";
-            prcbCoolDown.Size = new Size(202, 10);
+            prcbCoolDown.Size = new Size(177, 8);
             prcbCoolDown.TabIndex = 0;
             prcbCoolDown.Click += progressBar1_Click;
             // 
             // playerName
             // 
-            playerName.Location = new Point(12, 124);
+            playerName.Location = new Point(10, 93);
             playerName.Margin = new Padding(2);
             playerName.Name = "playerName";
             playerName.ReadOnly = true;
-            playerName.Size = new Size(202, 27);
+            playerName.Size = new Size(177, 23);
             playerName.TabIndex = 3;
             // 
             // txbIP
             // 
-            txbIP.Location = new Point(12, 161);
+            txbIP.Location = new Point(10, 121);
             txbIP.Margin = new Padding(2);
             txbIP.Name = "txbIP";
-            txbIP.Size = new Size(202, 27);
+            txbIP.Size = new Size(177, 23);
             txbIP.TabIndex = 4;
             txbIP.Text = "127.0.0.112";
             // 
@@ -141,18 +141,18 @@
             panel4.Controls.Add(txbIP);
             panel4.Controls.Add(playerName);
             panel4.Controls.Add(prcbCoolDown);
-            panel4.Location = new Point(1074, 11);
+            panel4.Location = new Point(940, 8);
             panel4.Margin = new Padding(2);
             panel4.Name = "panel4";
-            panel4.Size = new Size(288, 255);
+            panel4.Size = new Size(252, 191);
             panel4.TabIndex = 3;
             // 
             // avatar
             // 
-            avatar.Location = new Point(12, 10);
+            avatar.Location = new Point(10, 8);
             avatar.Margin = new Padding(2);
             avatar.Name = "avatar";
-            avatar.Size = new Size(117, 94);
+            avatar.Size = new Size(102, 70);
             avatar.SizeMode = PictureBoxSizeMode.StretchImage;
             avatar.TabIndex = 7;
             avatar.TabStop = false;
@@ -161,21 +161,22 @@
             // 
             panel2.BackgroundImage = Properties.Resources.Logo_UTH;
             panel2.BackgroundImageLayout = ImageLayout.Stretch;
-            panel2.Location = new Point(144, 10);
+            panel2.Location = new Point(126, 8);
             panel2.Margin = new Padding(2);
             panel2.Name = "panel2";
-            panel2.Size = new Size(130, 94);
+            panel2.Size = new Size(114, 70);
             panel2.TabIndex = 6;
             // 
             // btnLAN
             // 
-            btnLAN.Location = new Point(12, 190);
+            btnLAN.Location = new Point(10, 142);
             btnLAN.Margin = new Padding(2);
             btnLAN.Name = "btnLAN";
-            btnLAN.Size = new Size(202, 27);
+            btnLAN.Size = new Size(177, 20);
             btnLAN.TabIndex = 5;
             btnLAN.Text = "Kết nối";
             btnLAN.UseVisualStyleBackColor = true;
+            btnLAN.Click += btnLAN_Click;
             // 
             // tmCoolDown
             // 
@@ -187,7 +188,8 @@
             menuStrip1.Items.AddRange(new ToolStripItem[] { menuToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(1372, 28);
+            menuStrip1.Padding = new Padding(5, 2, 0, 2);
+            menuStrip1.Size = new Size(1199, 24);
             menuStrip1.TabIndex = 4;
             menuStrip1.Text = "menuStrip1";
             // 
@@ -195,14 +197,14 @@
             // 
             menuToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { newToolStripMenuItem, undoToolStripMenuItem, quitToolStripMenuItem });
             menuToolStripMenuItem.Name = "menuToolStripMenuItem";
-            menuToolStripMenuItem.Size = new Size(60, 24);
+            menuToolStripMenuItem.Size = new Size(50, 20);
             menuToolStripMenuItem.Text = "Menu";
             // 
             // newToolStripMenuItem
             // 
             newToolStripMenuItem.Name = "newToolStripMenuItem";
             newToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.N;
-            newToolStripMenuItem.Size = new Size(224, 26);
+            newToolStripMenuItem.Size = new Size(174, 22);
             newToolStripMenuItem.Text = "New game";
             newToolStripMenuItem.Click += newToolStripMenuItem_Click;
             // 
@@ -210,7 +212,7 @@
             // 
             undoToolStripMenuItem.Name = "undoToolStripMenuItem";
             undoToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.Z;
-            undoToolStripMenuItem.Size = new Size(224, 26);
+            undoToolStripMenuItem.Size = new Size(174, 22);
             undoToolStripMenuItem.Text = "Undo";
             undoToolStripMenuItem.Click += undoToolStripMenuItem_Click_1;
             // 
@@ -218,15 +220,15 @@
             // 
             quitToolStripMenuItem.Name = "quitToolStripMenuItem";
             quitToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.Q;
-            quitToolStripMenuItem.Size = new Size(224, 26);
+            quitToolStripMenuItem.Size = new Size(174, 22);
             quitToolStripMenuItem.Text = "Quit";
             quitToolStripMenuItem.Click += quitToolStripMenuItem_Click_1;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1372, 714);
+            ClientSize = new Size(1199, 536);
             Controls.Add(panel4);
             Controls.Add(panel3);
             Controls.Add(pnlChessBoard);
@@ -237,6 +239,7 @@
             Name = "Form1";
             Text = "Game Caro";
             FormClosing += Form1_FormClosing;
+            Shown += Form1_Shown;
             panel3.ResumeLayout(false);
             panel3.PerformLayout();
             panel4.ResumeLayout(false);
