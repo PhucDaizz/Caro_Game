@@ -1,0 +1,55 @@
+D:\IT !important\Winforms\Game_Caro\bin\Debug\net6.0-windows\Game_Caro.exe
+D:\IT !important\Winforms\Game_Caro\bin\Debug\net6.0-windows\Game_Caro.deps.json
+D:\IT !important\Winforms\Game_Caro\bin\Debug\net6.0-windows\Game_Caro.runtimeconfig.json
+D:\IT !important\Winforms\Game_Caro\bin\Debug\net6.0-windows\Game_Caro.dll
+D:\IT !important\Winforms\Game_Caro\bin\Debug\net6.0-windows\Game_Caro.pdb
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.csproj.AssemblyReference.cache
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.Form1.resources
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.csproj.GenerateResource.cache
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.AssemblyInfoInputs.cache
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.AssemblyInfo.cs
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.csproj.CoreCompileInputs.cache
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.dll
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\refint\Game_Caro.dll
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.pdb
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.genruntimeconfig.cache
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\ref\Game_Caro.dll
+D:\IT !important\Winforms\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.Properties.Resources.resources
+C:\Workspace\c#\Caro\Game_Caro\bin\Debug\net6.0-windows\Game_Caro.exe
+C:\Workspace\c#\Caro\Game_Caro\bin\Debug\net6.0-windows\Game_Caro.deps.json
+C:\Workspace\c#\Caro\Game_Caro\bin\Debug\net6.0-windows\Game_Caro.runtimeconfig.json
+C:\Workspace\c#\Caro\Game_Caro\bin\Debug\net6.0-windows\Game_Caro.dll
+C:\Workspace\c#\Caro\Game_Caro\bin\Debug\net6.0-windows\Game_Caro.pdb
+C:\Workspace\c#\Caro\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.Form1.resources
+C:\Workspace\c#\Caro\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.Properties.Resources.resources
+C:\Workspace\c#\Caro\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.csproj.GenerateResource.cache
+C:\Workspace\c#\Caro\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\c#\Caro\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.AssemblyInfoInputs.cache
+C:\Workspace\c#\Caro\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.AssemblyInfo.cs
+C:\Workspace\c#\Caro\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.csproj.CoreCompileInputs.cache
+C:\Workspace\c#\Caro\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.sourcelink.json
+C:\Workspace\c#\Caro\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.dll
+C:\Workspace\c#\Caro\Game_Caro\obj\Debug\net6.0-windows\refint\Game_Caro.dll
+C:\Workspace\c#\Caro\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.pdb
+C:\Workspace\c#\Caro\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.genruntimeconfig.cache
+C:\Workspace\c#\Caro\Game_Caro\obj\Debug\net6.0-windows\ref\Game_Caro.dll
+C:\Workspace\c#\Caro\Game_Caro\obj\Debug\net6.0-windows\Game_Caro.CustomMessageBox.resources
+C:\Users\Admin\Downloads\CaroGame\CaroGame\obj\Debug\net6.0-windows\Game_Caro.CustomMessageBox.resources
+C:\Users\Admin\Downloads\CaroGame\CaroGame\obj\Debug\net6.0-windows\Game_Caro.Form1.resources
+C:\Users\Admin\Downloads\CaroGame\CaroGame\obj\Debug\net6.0-windows\Game_Caro.Properties.Resources.resources
+C:\Users\Admin\Downloads\CaroGame\CaroGame\obj\Debug\net6.0-windows\Game_Caro.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\CaroGame\CaroGame\obj\Debug\net6.0-windows\Game_Caro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\CaroGame\CaroGame\obj\Debug\net6.0-windows\Game_Caro.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\CaroGame\CaroGame\obj\Debug\net6.0-windows\Game_Caro.AssemblyInfo.cs
+C:\Users\Admin\Downloads\CaroGame\CaroGame\obj\Debug\net6.0-windows\Game_Caro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CaroGame\CaroGame\obj\Debug\net6.0-windows\Game_Caro.dll
+C:\Users\Admin\Downloads\CaroGame\CaroGame\obj\Debug\net6.0-windows\refint\Game_Caro.dll
+C:\Users\Admin\Downloads\CaroGame\CaroGame\obj\Debug\net6.0-windows\Game_Caro.pdb
+C:\Users\Admin\Downloads\CaroGame\CaroGame\bin\Debug\net6.0-windows\Game_Caro.exe
+C:\Users\Admin\Downloads\CaroGame\CaroGame\bin\Debug\net6.0-windows\Game_Caro.deps.json
+C:\Users\Admin\Downloads\CaroGame\CaroGame\bin\Debug\net6.0-windows\Game_Caro.runtimeconfig.json
+C:\Users\Admin\Downloads\CaroGame\CaroGame\bin\Debug\net6.0-windows\Game_Caro.dll
+C:\Users\Admin\Downloads\CaroGame\CaroGame\bin\Debug\net6.0-windows\Game_Caro.pdb
+C:\Users\Admin\Downloads\CaroGame\CaroGame\obj\Debug\net6.0-windows\Game_Caro.genruntimeconfig.cache
+C:\Users\Admin\Downloads\CaroGame\CaroGame\obj\Debug\net6.0-windows\ref\Game_Caro.dll
