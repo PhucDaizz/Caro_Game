@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DaiHoc\\NAM 3\\Lap Trinh m\u1EA1ng MT\\Caro_Repo\\CaroGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|c:\\daihoc\\nam 3\\lap trinh m\u1EA1ng mt\\caro_repo\\carogame\\game caro\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|c:\\daihoc\\nam 3\\lap trinh m\u1EA1ng mt\\caro_repo\\carogame\\game caro\\btnclickevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\btnclickevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\DaiHoc\\NAM 3\\Lap Trinh m\u1EA1ng MT\\Caro_Repo\\CaroGame\\game caro\\gamecaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\gamecaro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\DaiHoc\\NAM 3\\Lap Trinh m\u1EA1ng MT\\Caro_Repo\\CaroGame\\game caro\\socketdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\socketdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|C:\\DaiHoc\\NAM 3\\Lap Trinh m\u1EA1ng MT\\Caro_Repo\\CaroGame\\game caro\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|c:\\daihoc\\nam 3\\lap trinh m\u1EA1ng mt\\caro_repo\\carogame\\game caro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|c:\\daihoc\\nam 3\\lap trinh m\u1EA1ng mt\\caro_repo\\carogame\\game caro\\playinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC8E721-3171-4A37-BA79-BC8A1C3B55F1}|Game Caro\\Game Caro.csproj|solutionrelative:game caro\\playinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\DaiHoc\\NAM 3\\Lap Trinh m\u1EA1ng MT\\Caro_Repo\\CaroGame\\Game Caro\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Game Caro\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\DaiHoc\\NAM 3\\Lap Trinh m\u1EA1ng MT\\Caro_Repo\\CaroGame\\Game Caro\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Game Caro\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:07:27.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BtnClickEvent.cs",
+              "DocumentMoniker": "C:\\DaiHoc\\NAM 3\\Lap Trinh m\u1EA1ng MT\\Caro_Repo\\CaroGame\\Game Caro\\BtnClickEvent.cs",
+              "RelativeDocumentMoniker": "Game Caro\\BtnClickEvent.cs",
+              "ToolTip": "C:\\DaiHoc\\NAM 3\\Lap Trinh m\u1EA1ng MT\\Caro_Repo\\CaroGame\\Game Caro\\BtnClickEvent.cs",
+              "RelativeToolTip": "Game Caro\\BtnClickEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:59:50.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayInfo.cs",
+              "DocumentMoniker": "C:\\DaiHoc\\NAM 3\\Lap Trinh m\u1EA1ng MT\\Caro_Repo\\CaroGame\\Game Caro\\PlayInfo.cs",
+              "RelativeDocumentMoniker": "Game Caro\\PlayInfo.cs",
+              "ToolTip": "C:\\DaiHoc\\NAM 3\\Lap Trinh m\u1EA1ng MT\\Caro_Repo\\CaroGame\\Game Caro\\PlayInfo.cs",
+              "RelativeToolTip": "Game Caro\\PlayInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:59:40.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DaiHoc\\NAM 3\\Lap Trinh m\u1EA1ng MT\\Caro_Repo\\CaroGame\\Game Caro\\Program.cs",
+              "RelativeDocumentMoniker": "Game Caro\\Program.cs",
+              "ToolTip": "C:\\DaiHoc\\NAM 3\\Lap Trinh m\u1EA1ng MT\\Caro_Repo\\CaroGame\\Game Caro\\Program.cs",
+              "RelativeToolTip": "Game Caro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:12:08.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\DaiHoc\\NAM 3\\Lap Trinh m\u1EA1ng MT\\Caro_Repo\\CaroGame\\Game Caro\\Player.cs",
+              "RelativeDocumentMoniker": "Game Caro\\Player.cs",
+              "ToolTip": "C:\\DaiHoc\\NAM 3\\Lap Trinh m\u1EA1ng MT\\Caro_Repo\\CaroGame\\Game Caro\\Player.cs",
+              "RelativeToolTip": "Game Caro\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:12:03.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SocketData.cs",
+              "DocumentMoniker": "C:\\DaiHoc\\NAM 3\\Lap Trinh m\u1EA1ng MT\\Caro_Repo\\CaroGame\\Game Caro\\SocketData.cs",
+              "RelativeDocumentMoniker": "Game Caro\\SocketData.cs",
+              "ToolTip": "C:\\DaiHoc\\NAM 3\\Lap Trinh m\u1EA1ng MT\\Caro_Repo\\CaroGame\\Game Caro\\SocketData.cs",
+              "RelativeToolTip": "Game Caro\\SocketData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:48:28.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameCaro.cs [Design]",
+              "DocumentMoniker": "C:\\DaiHoc\\NAM 3\\Lap Trinh m\u1EA1ng MT\\Caro_Repo\\CaroGame\\Game Caro\\GameCaro.cs",
+              "RelativeDocumentMoniker": "Game Caro\\GameCaro.cs",
+              "ToolTip": "C:\\DaiHoc\\NAM 3\\Lap Trinh m\u1EA1ng MT\\Caro_Repo\\CaroGame\\Game Caro\\GameCaro.cs [Design]",
+              "RelativeToolTip": "Game Caro\\GameCaro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:08:15.716Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
