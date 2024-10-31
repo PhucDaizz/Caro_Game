@@ -283,5 +283,45 @@ namespace Game_Caro
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void menuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void thayToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            // Define the path to the "images" folder in your project
+            string imagesPath = Path.Combine(Application.StartupPath, "images");
+            // Open a file dialog that starts in the "images" folder
+            using (OpenFileDialog openFileDialog = new OpenFileDialog())
+            {
+                openFileDialog.InitialDirectory = imagesPath;
+                openFileDialog.Filter = "Image Files|*.jpg;*.jpeg;*.png;*.bmp";
+                openFileDialog.Title = "Select Background Image";
+
+                if (openFileDialog.ShowDialog() == DialogResult.OK)
+                {
+                    // Set the selected image as the background
+                    this.BackgroundImage = Image.FromFile(openFileDialog.FileName);
+                    this.BackgroundImageLayout = ImageLayout.Stretch; // Adjust layout as needed
+                }
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
