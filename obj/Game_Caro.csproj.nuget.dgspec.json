@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CaroMain\\Caro_Game\\Game_Caro.csproj": {}
+    "C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\Game_Caro.csproj": {}
   },
   "projects": {
-    "E:\\CaroMain\\Caro_Game\\Game_Caro.csproj": {
+    "C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\Game_Caro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CaroMain\\Caro_Game\\Game_Caro.csproj",
+        "projectUniqueName": "C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\Game_Caro.csproj",
         "projectName": "Game_Caro",
-        "projectPath": "E:\\CaroMain\\Caro_Game\\Game_Caro.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\CaroMain\\Caro_Game\\obj\\",
+        "projectPath": "C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\Game_Caro.csproj",
+        "packagesPath": "C:\\Users\\PHUCDAI\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PHUCDAI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,6 +49,12 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "NAudio": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -68,7 +74,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

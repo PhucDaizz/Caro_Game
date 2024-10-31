@@ -1,6 +1,8 @@
-﻿using System;
+﻿using NAudio.Wave;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Media;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,6 +11,9 @@ namespace Game_Caro
 {
     public class ChessBoardManager
     {
+        private WaveOutEvent backgroundPlayer;
+        private AudioFileReader backgroundReader;
+
         #region Properties
         private Panel chessBoard;
         private List<Player> players = new List<Player>();
@@ -76,7 +81,13 @@ namespace Game_Caro
         #region Methods
         public void DrawChessBoard()
         {
-            
+            string path = Application.StartupPath + "\\Resources\\ThienLyOi.mp3";
+            backgroundReader = new AudioFileReader(path);
+            backgroundPlayer = new WaveOutEvent();
+            backgroundPlayer.Init(backgroundReader);
+            backgroundPlayer.PlaybackStopped += BackgroundPlaybackStopped; // Đăng ký sự kiện khi phát xong
+            backgroundPlayer.Play();
+
             ChessBoard.Controls.Clear();
             ChessBoard.Enabled = false;
             PlayTimeLine = new Stack<PlayInfor>();
@@ -116,8 +127,20 @@ namespace Game_Caro
 
         }
 
+        // Sự kiện khi nhạc nền phát hết
+        private void BackgroundPlaybackStopped(object sender, StoppedEventArgs e)
+        {
+            // Reset lại vị trí phát và phát lại từ đầu
+            backgroundReader.Position = 0;
+            backgroundPlayer.Play();
+        }
+
         void btn_Click(object sender, EventArgs e)
         {
+            string path = Application.StartupPath + "\\Resources\\bubble_sound.wav";
+            SoundPlayer sPlayer = new SoundPlayer(path);
+            sPlayer.Play();
+
             Button btn = sender as Button;
             if (btn.BackgroundImage != null)
                 return;

@@ -7,7 +7,7 @@ namespace Game_Caro
     {
         #region Properties
         ChessBoardManager ChessBoard;
-
+        string PlayerName;
         SocketManager socket;
         #endregion
         public Form1()
@@ -25,6 +25,8 @@ namespace Game_Caro
             tmCoolDown.Interval = Constant.COOL_DOWN_INTERVAL;
 
             socket = new SocketManager();
+
+            txt_Chat.Text = "";
 
             NewGame();
         }
@@ -244,6 +246,9 @@ namespace Game_Caro
                     tmCoolDown.Stop();
                     MessageBox.Show("Đối thủ đã thoát");
                     break;
+                case (int)SocketComand.SEND_MESSAGE:
+                    txt_Chat.Text = data.Message;
+                    break;
                 case (int)SocketComand.CONNECT_SUCCESS:
                     this.Invoke((MethodInvoker)(() =>
                     {
@@ -310,6 +315,9 @@ namespace Game_Caro
                     // Set the selected image as the background
                     this.BackgroundImage = Image.FromFile(openFileDialog.FileName);
                     this.BackgroundImageLayout = ImageLayout.Stretch; // Adjust layout as needed
+                    pnlChessBeard.BackgroundImage = Image.FromFile(openFileDialog.FileName);
+                    pnlChessBeard.BackgroundImageLayout = ImageLayout.Stretch;
+
                 }
             }
         }
@@ -320,6 +328,25 @@ namespace Game_Caro
         }
 
         private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void txt_Chat_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_Send_Click(object sender, EventArgs e)
+        {
+            PlayerName = ChessBoard.Players[socket.isServer ? 0 : 1].Name;
+            txt_Chat.Text += "- " + PlayerName + ": " + txt_Message.Text + "\r\n";
+
+            socket.Send(new SocketData((int)SocketComand.SEND_MESSAGE, txt_Chat.Text, new Point()));
+            Listen();
+        }
+
+        private void txt_Message_TextChanged(object sender, EventArgs e)
         {
 
         }
