@@ -1,6 +1,6 @@
 ﻿using System.Net.NetworkInformation;
 using System.Windows.Forms;
-
+using System.Media;
 namespace Game_Caro
 {
     public partial class Form1 : Form
@@ -349,6 +349,29 @@ namespace Game_Caro
         private void txt_Message_TextChanged(object sender, EventArgs e)
         {
 
+        }
+        private void nhacnen(object sender, EventArgs e)
+        {
+            // Đường dẫn tới thư mục "amthanh" trong thư mục gốc của ứng dụng
+            string musicFolderPath = Path.Combine(Application.StartupPath, "amthanh");
+
+            using (OpenFileDialog openFileDialog = new OpenFileDialog())
+            {
+                openFileDialog.InitialDirectory = musicFolderPath;
+                // Sửa filter để hỗ trợ cả wav và mp3
+                openFileDialog.Filter = "Audio Files|*.wav;*.mp3";
+                openFileDialog.Title = "Select Background Music";
+
+                if (openFileDialog.ShowDialog() == DialogResult.OK)
+                {
+                    AudioManager.PlayBackground(openFileDialog.FileName);
+                }
+            }
+        }
+        protected override void OnFormClosing(FormClosingEventArgs e)
+        {
+            base.OnFormClosing(e);
+            AudioManager.Dispose();
         }
     }
 }

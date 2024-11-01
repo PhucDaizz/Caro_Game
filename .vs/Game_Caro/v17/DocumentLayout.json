@@ -1,30 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\",
+  "WorkspaceRootPath": "E:\\Caro_Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|c:\\workspace\\c#\\btnhomcaro\\caro_game\\socketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|solutionrelative:socketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|c:\\workspace\\c#\\btnhomcaro\\caro_game\\chessboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|solutionrelative:chessboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|c:\\workspace\\c#\\btnhomcaro\\caro_game\\socketdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|solutionrelative:socketdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|c:\\workspace\\c#\\btnhomcaro\\caro_game\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|solutionrelative:custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|c:\\workspace\\c#\\btnhomcaro\\caro_game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|e:\\caro_game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|E:\\Caro_Game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|e:\\caro_game\\custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|solutionrelative:custommessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|e:\\caro_game\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|solutionrelative:audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|e:\\caro_game\\chessboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|solutionrelative:chessboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|e:\\caro_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|e:\\caro_game\\playinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|solutionrelative:playinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|e:\\caro_game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|e:\\caro_game\\socketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|solutionrelative:socketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|e:\\caro_game\\socketdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5155A4-3147-4CD6-A8BD-33D4F2A7B800}|Game_Caro.csproj|solutionrelative:socketdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +50,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 168,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -45,38 +65,60 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChessBoardManager.cs",
-              "DocumentMoniker": "C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\ChessBoardManager.cs",
-              "RelativeDocumentMoniker": "ChessBoardManager.cs",
-              "ToolTip": "C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\ChessBoardManager.cs",
-              "RelativeToolTip": "ChessBoardManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T13:05:39.209Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "E:\\Caro_Game\\AudioManager.cs",
+              "RelativeDocumentMoniker": "AudioManager.cs",
+              "ToolTip": "E:\\Caro_Game\\AudioManager.cs",
+              "RelativeToolTip": "AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:53:42.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Caro_Game\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Caro_Game\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:15:35.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "SocketManager.cs",
-              "DocumentMoniker": "C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\SocketManager.cs",
+              "DocumentMoniker": "E:\\Caro_Game\\SocketManager.cs",
               "RelativeDocumentMoniker": "SocketManager.cs",
-              "ToolTip": "C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\SocketManager.cs",
+              "ToolTip": "E:\\Caro_Game\\SocketManager.cs",
               "RelativeToolTip": "SocketManager.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAAAG4AAAAMAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T13:05:39.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T13:05:39.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "SocketData.cs",
-              "DocumentMoniker": "C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\SocketData.cs",
+              "DocumentMoniker": "E:\\Caro_Game\\SocketData.cs",
               "RelativeDocumentMoniker": "SocketData.cs",
-              "ToolTip": "C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\SocketData.cs",
+              "ToolTip": "E:\\Caro_Game\\SocketData.cs",
               "RelativeToolTip": "SocketData.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAA/wCUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,39 +126,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CustomMessageBox.cs",
-              "DocumentMoniker": "C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\CustomMessageBox.cs",
+              "DocumentMoniker": "E:\\Caro_Game\\CustomMessageBox.cs",
               "RelativeDocumentMoniker": "CustomMessageBox.cs",
-              "ToolTip": "C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\CustomMessageBox.cs",
+              "ToolTip": "E:\\Caro_Game\\CustomMessageBox.cs",
               "RelativeToolTip": "CustomMessageBox.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T13:05:39.198Z"
+              "WhenOpened": "2024-10-30T13:05:39.198Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\Form1.cs",
+              "DocumentMoniker": "E:\\Caro_Game\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\Form1.cs [Design]",
+              "ToolTip": "E:\\Caro_Game\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T13:05:39.201Z"
+              "WhenOpened": "2024-10-30T13:05:39.201Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Caro_Game\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Caro_Game\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAHMBAAAAAAAAAADwv2YBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T11:04:24.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Workspace\\c#\\btnhomCaro\\Caro_Game\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUBAAAMAAAA",
+              "Title": "ChessBoardManager.cs",
+              "DocumentMoniker": "E:\\Caro_Game\\ChessBoardManager.cs",
+              "RelativeDocumentMoniker": "ChessBoardManager.cs",
+              "ToolTip": "E:\\Caro_Game\\ChessBoardManager.cs",
+              "RelativeToolTip": "ChessBoardManager.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAwwIoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T11:04:24.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T13:05:39.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\Caro_Game\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "E:\\Caro_Game\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:15:46.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayInfor.cs",
+              "DocumentMoniker": "E:\\Caro_Game\\PlayInfor.cs",
+              "RelativeDocumentMoniker": "PlayInfor.cs",
+              "ToolTip": "E:\\Caro_Game\\PlayInfor.cs",
+              "RelativeToolTip": "PlayInfor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:15:49.516Z"
             }
           ]
         }

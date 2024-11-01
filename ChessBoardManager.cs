@@ -81,12 +81,12 @@ namespace Game_Caro
         #region Methods
         public void DrawChessBoard()
         {
-            string path = Application.StartupPath + "\\Resources\\ThienLyOi.mp3";
-            backgroundReader = new AudioFileReader(path);
-            backgroundPlayer = new WaveOutEvent();
-            backgroundPlayer.Init(backgroundReader);
-            backgroundPlayer.PlaybackStopped += BackgroundPlaybackStopped; // Đăng ký sự kiện khi phát xong
-            backgroundPlayer.Play();
+            //string path = Application.StartupPath + "\\Resources\\ThienLyOi.mp3";
+            //backgroundReader = new AudioFileReader(path);
+            //backgroundPlayer = new WaveOutEvent();
+            //backgroundPlayer.Init(backgroundReader);
+            //backgroundPlayer.PlaybackStopped += BackgroundPlaybackStopped; // Đăng ký sự kiện khi phát xong
+            //backgroundPlayer.Play();
 
             ChessBoard.Controls.Clear();
             ChessBoard.Enabled = false;
@@ -127,7 +127,7 @@ namespace Game_Caro
 
         }
 
-        // Sự kiện khi nhạc nền phát hết
+        //Sự kiện khi nhạc nền phát hết
         private void BackgroundPlaybackStopped(object sender, StoppedEventArgs e)
         {
             // Reset lại vị trí phát và phát lại từ đầu
@@ -138,8 +138,7 @@ namespace Game_Caro
         void btn_Click(object sender, EventArgs e)
         {
             string path = Application.StartupPath + "\\Resources\\bubble_sound.wav";
-            SoundPlayer sPlayer = new SoundPlayer(path);
-            sPlayer.Play();
+            AudioManager.PlayEffect(path); // Thay thế SoundPlayer bằng AudioManager
 
             Button btn = sender as Button;
             if (btn.BackgroundImage != null)
